@@ -1,0 +1,51 @@
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\AdvancedHMI.exe
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\AdvancedHMI.pdb
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\AdvancedHMI.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\OpcNetApi.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\OpcComRcw.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\OpcNetApi.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\obj\Debug\AdvancedHMI.vbprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.ThreeButtons.resources
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\OpcNetApi.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\OpcNetApi.Com.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\OpcComRcw.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\OpcNetApi.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\OpcNetApi.Com.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\AdvancedHMI.vbprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.ThreeButtons.resources
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\Decoiler PC Interface.exe.config
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\Decoiler PC Interface.exe
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\Decoiler PC Interface.pdb
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\Decoiler PC Interface.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\Decoiler PC Interface.exe
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\Decoiler PC Interface.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\Decoiler PC Interface.pdb
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\Decoiler PC Interface.exe.manifest
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\bin\Debug\Decoiler PC Interface.application
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\Decoiler PC Interface.TrustInfo.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\Decoiler PC Interface.exe.manifest
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\Decoiler Ver 002\AdvancedHMI\obj\Debug\Decoiler PC Interface.application

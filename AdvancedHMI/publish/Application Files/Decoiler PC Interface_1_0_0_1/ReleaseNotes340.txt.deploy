@@ -1,0 +1,49 @@
+﻿V3.40
+Added ReadSynchronous to IComComponent and all drivers
+ReadSynchronous should now be used in place of the following:
+EthernetIPforCLXCom1.AsyncMode=False
+value=EthernetIPforCLXCom1.ReadAny("Tag1")
+
+Changed controls to use ReadAsynchrnous when Toggle output type set
+
+V3.34
+BarLevel would split number on Right fill direction when bar got too small
+EthernetIP issue when sync and subscriptions simultaneously
+
+V3.33
+Fixed problem with reading large numbers of element in SLC/Micro
+
+V3.32
+Fixed issue with reading large arrays in CLX driver
+Attempting to address problem when mixing Synchronous and Asynchronous reads
+
+
+V3.31
+Gauge now shows negative numbers on digital display.
+Barlevel no longer hides value when bar is too small for text
+Added TextSuffix property to Barlevel
+Fixed SetRunMode and SetProgramMode for SLC and Micro
+Fixed a display refresh issue with the Digital Panel meter when the ScaleFactor is changed
+Transparency at corners of popup keypad is not fixed
+Fixed Communication issues with PLC5
+
+V3.28
+Fixed GetTagList function in ControlLogix driver
+Fixed problem with connecting to EN2T on ControlLogix driver
+Fixed problems with SLC driver
+
+V3.27
+Based on .NET 4.0 framework
+With .NET 4.0, A Chart is available under the data group of ToolBox
+PilotLight can use different colors for on state and off state
+Added KeypadMinValue and KeypadMaxValue to BasicLabel to limit value entry
+Fixed problem with Modbus driver that would cause it to work for about 1 minute, then give index error
+Added CloseConnection to EthernetIPforPLCSLCMicro and EthernetIPforCLX
+Reworked some socket data handling inside the Ethernet/IP driver
+Changed EthernetIP drivers to eliminate First Chance Exceptions that would cause slower reads
+Fixed problem in EthernetIPforCLX driver with reading string arrays
+
+Added SpeakMessage property to MessageDisplayByValue
+Added ValueToWrite as OutputType option on BasicButton
+TwinCAT driver is part of the package again
+

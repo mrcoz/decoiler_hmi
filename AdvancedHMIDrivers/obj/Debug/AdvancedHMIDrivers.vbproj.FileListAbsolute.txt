@@ -1,0 +1,15 @@
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\bin\Debug\OpcComRcw.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+C:\Users\Mark\Documents\Visual Studio 2012\Projects\AdvancedHMIBetaV340\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
