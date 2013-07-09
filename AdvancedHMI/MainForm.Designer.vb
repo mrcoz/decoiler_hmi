@@ -48,7 +48,6 @@ Partial Class MainForm
         Me.TabPage2 = New System.Windows.Forms.TabPage()
         Me.Label29 = New System.Windows.Forms.Label()
         Me.Label28 = New System.Windows.Forms.Label()
-        Me.Label27 = New System.Windows.Forms.Label()
         Me.Label22 = New System.Windows.Forms.Label()
         Me.Label23 = New System.Windows.Forms.Label()
         Me.Qty14 = New System.Windows.Forms.NumericUpDown()
@@ -158,7 +157,7 @@ Partial Class MainForm
         Me.DF1Comm1.AsyncMode = False
         Me.DF1Comm1.BaudRate = "AUTO"
         Me.DF1Comm1.CheckSumType = AdvancedHMIDrivers.DF1Comm.CheckSumOptions.Crc
-        Me.DF1Comm1.ComPort = "COM4"
+        Me.DF1Comm1.ComPort = "COM6"
         Me.DF1Comm1.DisableSubscriptions = False
         Me.DF1Comm1.MyNode = 0
         Me.DF1Comm1.Parity = System.IO.Ports.Parity.None
@@ -380,7 +379,6 @@ Partial Class MainForm
         Me.TabPage2.BackColor = System.Drawing.Color.Black
         Me.TabPage2.Controls.Add(Me.Label29)
         Me.TabPage2.Controls.Add(Me.Label28)
-        Me.TabPage2.Controls.Add(Me.Label27)
         Me.TabPage2.Controls.Add(Me.Label22)
         Me.TabPage2.Controls.Add(Me.Label23)
         Me.TabPage2.Controls.Add(Me.Qty14)
@@ -459,32 +457,24 @@ Partial Class MainForm
         'Label29
         '
         Me.Label29.AutoSize = True
-        Me.Label29.BackColor = System.Drawing.Color.DimGray
-        Me.Label29.Location = New System.Drawing.Point(478, 180)
+        Me.Label29.BackColor = System.Drawing.Color.Black
+        Me.Label29.ForeColor = System.Drawing.Color.White
+        Me.Label29.Location = New System.Drawing.Point(536, 171)
         Me.Label29.Name = "Label29"
-        Me.Label29.Size = New System.Drawing.Size(52, 13)
+        Me.Label29.Size = New System.Drawing.Size(35, 13)
         Me.Label29.TabIndex = 82
-        Me.Label29.Text = "Label29"
+        Me.Label29.Text = "2000"
         '
         'Label28
         '
         Me.Label28.AutoSize = True
-        Me.Label28.BackColor = System.Drawing.Color.DimGray
-        Me.Label28.Location = New System.Drawing.Point(478, 153)
+        Me.Label28.BackColor = System.Drawing.Color.Black
+        Me.Label28.ForeColor = System.Drawing.Color.White
+        Me.Label28.Location = New System.Drawing.Point(456, 171)
         Me.Label28.Name = "Label28"
-        Me.Label28.Size = New System.Drawing.Size(52, 13)
+        Me.Label28.Size = New System.Drawing.Size(74, 13)
         Me.Label28.TabIndex = 81
-        Me.Label28.Text = "Label28"
-        '
-        'Label27
-        '
-        Me.Label27.AutoSize = True
-        Me.Label27.BackColor = System.Drawing.Color.DimGray
-        Me.Label27.Location = New System.Drawing.Point(478, 121)
-        Me.Label27.Name = "Label27"
-        Me.Label27.Size = New System.Drawing.Size(52, 13)
-        Me.Label27.TabIndex = 80
-        Me.Label27.Text = "Label27"
+        Me.Label28.Text = "Timer Value"
         '
         'Label22
         '
@@ -1088,7 +1078,7 @@ Partial Class MainForm
         Me.Label25.ForeColor = System.Drawing.SystemColors.AppWorkspace
         Me.Label25.Location = New System.Drawing.Point(17, 13)
         Me.Label25.Name = "Label25"
-        Me.Label25.Size = New System.Drawing.Size(476, 65)
+        Me.Label25.Size = New System.Drawing.Size(502, 117)
         Me.Label25.TabIndex = 1
         Me.Label25.Text = resources.GetString("Label25.Text")
         '
@@ -1236,6 +1226,5 @@ Partial Class MainForm
     Friend WithEvents Label26 As System.Windows.Forms.Label
     Friend WithEvents Label25 As System.Windows.Forms.Label
     Friend WithEvents Label28 As System.Windows.Forms.Label
-    Friend WithEvents Label27 As System.Windows.Forms.Label
     Friend WithEvents Label29 As System.Windows.Forms.Label
 End Class

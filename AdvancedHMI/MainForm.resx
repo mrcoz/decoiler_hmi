@@ -126,12 +126,6 @@
   <metadata name="MenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>222, 17</value>
   </metadata>
-  <metadata name="Timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>133, 17</value>
-  </metadata>
-  <metadata name="MenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>222, 17</value>
-  </metadata>
   <data name="Label26.Text" xml:space="preserve">
     <value>Step 1: Enter Qty and Length Fields - up to 20 different combinations are allowed
 Note: Program will only cut number of non-zero qty and length values
@@ -148,6 +142,14 @@ current quantity and length have completed  </value>
 Working interface to PLC for multiple line inputs, limited graphics and functionality
 allows for up to 20 different quantity and length combinations.
 Version 01.02: 130708
-Added Dynamic Timer Interval to allow for time delay based on length of sheet cut.</value>
+Added Dynamic Timer Interval to allow for time delay based on length of sheet cut.
+Version 01.02: 130709
+Fixed bug with Timer Interval, added feature to check after 1st sheet is cut and reduce
+Timer to 2 sec interval.  Fixes delays in multiple Qty timing issue.  Com Port for Decoiler
+Computer is Com6.
+</value>
   </data>
+  <metadata name="Timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>133, 17</value>
+  </metadata>
 </root>
