@@ -141,9 +141,11 @@ current quantity and length have completed  </value>
     <value>Version 01.01: 130703
 Working interface to PLC for multiple line inputs, limited graphics and functionality
 allows for up to 20 different quantity and length combinations.
+
 Version 01.02: 130708
 Added Dynamic Timer Interval to allow for time delay based on length of sheet cut.
-Version 01.02: 130709
+
+Version 01.03: 130709
 Fixed bug with Timer Interval, added feature to check after 1st sheet is cut and reduce
 Timer to 2 sec interval.  Fixes delays in multiple Qty timing issue.  Com Port for Decoiler
 Computer is Com6.
