@@ -104,8 +104,8 @@ Partial Class MainForm
         Me.Label26 = New System.Windows.Forms.Label()
         Me.Label24 = New System.Windows.Forms.Label()
         Me.TabPage3 = New System.Windows.Forms.TabPage()
-        Me.Label25 = New System.Windows.Forms.Label()
         Me.Label27 = New System.Windows.Forms.Label()
+        Me.Label25 = New System.Windows.Forms.Label()
         CType(Me.Length20, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Length19, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Qty20, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -1074,6 +1074,16 @@ Partial Class MainForm
         Me.TabPage3.TabIndex = 2
         Me.TabPage3.Text = "Version Notes"
         '
+        'Label27
+        '
+        Me.Label27.AutoSize = True
+        Me.Label27.ForeColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        Me.Label27.Location = New System.Drawing.Point(17, 166)
+        Me.Label27.Name = "Label27"
+        Me.Label27.Size = New System.Drawing.Size(432, 91)
+        Me.Label27.TabIndex = 2
+        Me.Label27.Text = resources.GetString("Label27.Text")
+        '
         'Label25
         '
         Me.Label25.AutoSize = True
@@ -1083,18 +1093,6 @@ Partial Class MainForm
         Me.Label25.Size = New System.Drawing.Size(502, 143)
         Me.Label25.TabIndex = 1
         Me.Label25.Text = resources.GetString("Label25.Text")
-        '
-        'Label27
-        '
-        Me.Label27.AutoSize = True
-        Me.Label27.ForeColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        Me.Label27.Location = New System.Drawing.Point(17, 166)
-        Me.Label27.Name = "Label27"
-        Me.Label27.Size = New System.Drawing.Size(270, 78)
-        Me.Label27.TabIndex = 2
-        Me.Label27.Text = "Version 01.04: 130710" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Changed 1st Cut Piece Time Delay From: " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "t = 3000 + length" & _
-    " * 325 " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "To:  " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "t = 4000 + length * 375" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Needed adjustment for small pieces ~ 20" & _
-    " inch." & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
         'MainForm
         '

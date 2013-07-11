@@ -137,6 +137,15 @@ Press [Clear] - resets all values to zero
 Press [Stop] - Terminates cutting operation after 
 current quantity and length have completed  </value>
   </data>
+  <data name="Label27.Text" xml:space="preserve">
+    <value>Version 01.04: 130710
+Changed 1st Cut Piece Time Delay From: t = 3000 + length * 325 
+To:  t = 4000 + length * 375 Needed adjustment for small pieces ~ 20 inch.
+
+Version 01.05: 130711
+Changed 1st Cut Piece Time Delay From: t = 4000 + length * 375 
+To:  t = 7500 + length * 400 Needed adjustment for small pieces ~ 20 inch.</value>
+  </data>
   <data name="Label25.Text" xml:space="preserve">
     <value>Version 01.01: 130703
 Working interface to PLC for multiple line inputs, limited graphics and functionality
